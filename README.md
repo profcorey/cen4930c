@@ -7,7 +7,8 @@ Postman: https://postman.com
 Jetbrains Educational Pack: https://www.jetbrains.com/academy/student-pack/
 
 ### Programming Languagues
-Python: https://python.org
+Python: https://python.orgk
+
 Go Lang: https://go.dev
 
 ### Tutorials
@@ -15,6 +16,8 @@ LinkedIn Learning: https://www.linkedin.com/learning/topics/python
 
 ### Charts & Graphs
 Google Charts: https://developers.google.com/chart
+
+R Desktop Studio: https://posit.co/download/rstudio-desktop/
 
 ### Past DIY API projects for generating ideas for your own project (do not use any of these ideas):
 
