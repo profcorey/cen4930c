@@ -1,6 +1,6 @@
 ## Seminar in Advanced Software Dev CEN-4930C
 
-### APi Tool
+### API Tool
 Postman: https://postman.com
 
 ### Free IDEs
