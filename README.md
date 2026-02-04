@@ -1,11 +1,11 @@
-# Seminar in Advanced Software Dev CEN-4930C
+## Seminar in Advanced Software Dev CEN-4930C
 
-# Tools
+### Tools
 Postman: https://postman.com
 Jetbrains Educational Pack: https://www.jetbrains.com/academy/student-pack/
 
-# Programming Languagues
+### Programming Languagues
 Python: https://python.org
 
-# Tutorials
+### Tutorials
 https://www.linkedin.com/learning/topics/python
