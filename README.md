@@ -1,5 +1,12 @@
 ## Seminar in Advanced Software Dev CEN-4930C
 
+### NoSQL Databases
+Apache Cassandra: https://cassandra.apache.org/
+
+Amazon DynamoDB: https://aws.amazon.com/dynamodb/
+
+MongoDB: https://www.mongodb.com/
+
 ### API Tool
 Postman: https://postman.com
 
