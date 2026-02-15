@@ -1,5 +1,9 @@
 ## Seminar in Advanced Software Dev CEN-4930C
 
+### Open Broadcaster Software
+
+https://obsproject.com/
+
 ### NoSQL Databases
 Apache Cassandra: https://cassandra.apache.org/
 
